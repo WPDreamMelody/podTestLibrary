@@ -22,7 +22,7 @@ pod "podTestLibrary"
 
 ## Author
 
-kyu@Ctrip.com, Qaz~1234
+kyu@Ctrip.com,AAAAAAAAA
 
 ## License
 
