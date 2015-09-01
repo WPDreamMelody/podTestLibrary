@@ -22,6 +22,11 @@
       "Pod/Assets/*.png"
     ]
   },
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  },
   "subspecs": [
     {
       "name": "Script",

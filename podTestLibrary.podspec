@@ -1,5 +1,3 @@
-
-
 Pod::Spec.new do |s|
   s.name             = "podTestLibrary"
   s.version          = "0.1.0"
@@ -23,6 +21,7 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     'podTestLibrary' => ['Pod/Assets/*.png']
   }
+s.dependency 'Masonry'
 
   s.subspec 'Script' do |script|
       script.source_files = 'Pod/Classes/Script/**/*'

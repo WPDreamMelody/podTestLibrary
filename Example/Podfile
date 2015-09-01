@@ -9,4 +9,5 @@ target 'podTestLibrary_Tests', :exclusive => true do
   pod "podTestLibrary", :path => "../"
 
   pod 'FBSnapshotTestCase'
+  
 end
