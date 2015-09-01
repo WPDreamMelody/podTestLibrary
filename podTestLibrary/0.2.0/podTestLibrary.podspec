@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = "podTestLibrary is test."
   s.description      =  <<-DESC
                        Testing Podspec.
- 
+
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
@@ -18,7 +18,11 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
  s.source_files = 'Pod/Classes/**/*'
- s.source_files = 'Pod/Classes/Script/**/*'
+#s.source_files = 'Pod/Classes/Script/**/*'
+s.subspec 'Script' do |script|
+ script.source_files = 'Pod/Classes/Script/**/*'
+end
+
    s.resource_bundles = {
      'podTestLibrary' => ['Pod/Assets/*.png']
    }
