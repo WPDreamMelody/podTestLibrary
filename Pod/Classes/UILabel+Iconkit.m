@@ -12,7 +12,7 @@
 
 - (void)setIcon:(NSString *)icon
 {
-    self.font = [UIFont fontWithName:@"ctripicon" size:36];
+    self.font = [UIFont fontWithName:@"dpicon" size:36];
     self.text = icon;
 }
 

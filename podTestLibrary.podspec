@@ -12,15 +12,14 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/WPDreamMelody/podTestLibrary"
   s.license          = 'MIT'
   s.author           = {"kyu" => "kyu@Ctrip.com" }
-  s.source           = { :git => "https://github.com/WPDreamMelody/podTestLibrary.git", :tag => "1.0.0" }
+  s.source           = { :git => "https://github.com/WPDreamMelody/podTestLibrary.git", :tag => "1.0.2" }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
-  s.resource_bundles = {
-    'podAssetsBLD' => ['Pod/Assets/*']
-  }
-s.dependency 'Masonry'
+  s.resources = "Resources/*.ttf" 
+  
+  s.dependency 'Masonry'
 
 end
