@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A9A9B79-0D4B-4223-98CF-131DAF600308</string>
+	<key>IDESourceControlProjectName</key>
+	<string>podTestLibrary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1F5BF3FBF106DF56EB0670586E81F2464711682</key>
+		<string>https://github.com/WPDreamMelody/podTestLibrary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/podTestLibrary.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1F5BF3FBF106DF56EB0670586E81F2464711682</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WPDreamMelody/podTestLibrary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1F5BF3FBF106DF56EB0670586E81F2464711682</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1F5BF3FBF106DF56EB0670586E81F2464711682</string>
+			<key>IDESourceControlWCCName</key>
+			<string>podTestLibrary</string>
+		</dict>
+	</array>
+</dict>
+</plist>

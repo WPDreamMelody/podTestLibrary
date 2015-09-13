@@ -1,0 +1,167 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/Masonry.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MASCompositeConstraint.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASCompositeConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint+Private.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASConstraint+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraintMaker.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASConstraintMaker.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASLayoutConstraint.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASLayoutConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASUtilities.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewAttribute.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASViewAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewConstraint.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/MASViewConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry-Swift.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/Masonry.framework/Headers/Masonry-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry-umbrella.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Target Support Files/Masonry/Masonry-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/Masonry.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASAdditions.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/NSArray+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASShorthandAdditions.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+MASDebugAdditions.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASAdditions.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/View+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASShorthandAdditions.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/View+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "ViewController+MASAdditions.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Masonry/Masonry/ViewController+MASAdditions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/Masonry.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Masonry.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/Pods_podTestLibrary_Example.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-podTestLibrary_Example-umbrella.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Target Support Files/Pods-podTestLibrary_Example/Pods-podTestLibrary_Example-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_podTestLibrary_Example-Swift.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/Pods_podTestLibrary_Example.framework/Headers/Pods_podTestLibrary_Example-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/Pods_podTestLibrary_Example.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-podTestLibrary_Example.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/podTestLibrary.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UILabel+Iconkit.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Pod/Classes/UILabel+Iconkit.h"
+        },
+        {
+          'type': 'file',
+          'name': "podTestLibrary-Swift.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/podTestLibrary.framework/Headers/podTestLibrary-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "podTestLibrary-umbrella.h",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Pods/Target Support Files/podTestLibrary/podTestLibrary-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/podTestLibrary.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/podTestLibrary.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -18,19 +18,13 @@
   "requires_arc": true,
   "source_files": "Pod/Classes/**/*",
   "resource_bundles": {
-    "podTestLibrary": [
-      "Pod/Assets/*.png"
+    "podAssetsBLD": [
+      "Pod/Assets/*"
     ]
   },
   "dependencies": {
     "Masonry": [
 
     ]
-  },
-  "subspecs": [
-    {
-      "name": "Script",
-      "source_files": "Pod/Classes/Script/**/*"
-    }
-  ]
+  }
 }

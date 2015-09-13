@@ -19,12 +19,8 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
-    'podTestLibrary' => ['Pod/Assets/*.png']
+    'podAssetsBLD' => ['Pod/Assets/*']
   }
 s.dependency 'Masonry'
 
-  s.subspec 'Script' do |script|
-      script.source_files = 'Pod/Classes/Script/**/*'
-  end
-  
 end
