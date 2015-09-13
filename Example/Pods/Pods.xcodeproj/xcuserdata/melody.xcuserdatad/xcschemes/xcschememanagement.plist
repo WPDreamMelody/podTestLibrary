@@ -24,11 +24,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>podTestLibrary-podAssetsBLD.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>podTestLibrary.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -37,27 +32,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>87DE4A53EA8AD5E9596C5E297DE862E5</key>
+		<key>23AE3380F5E9CD576EED64F38561ABCA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9212E4E96786B8AFEC28605F20C13C14</key>
+		<key>6AF6FD55FC11F00DB47546E2FCC61DBB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>968E34BD7B2D8EE5DC9A14BA60BF6DE4</key>
+		<key>90B5946B62C88113512CF96CC8C3925C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>C2F6499158A6247730E5D848A8A2448D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>CE9899FD5EB3F653CDC0A5A803CB09BF</key>
 		<dict>
 			<key>primary</key>
 			<true/>

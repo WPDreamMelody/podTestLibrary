@@ -1,1 +1,1 @@
- const unsigned char podTestLibraryVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:podTestLibrary  PROJECT:Pods-0.1.0" "\n"; const double podTestLibraryVersionNumber __attribute__ ((used)) = (double)0.1;
+ const unsigned char podTestLibraryVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:podTestLibrary  PROJECT:Pods-1.0.2" "\n"; const double podTestLibraryVersionNumber __attribute__ ((used)) = (double)1.0;

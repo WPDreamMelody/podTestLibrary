@@ -5,7 +5,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.0.4):
     - FBSnapshotTestCase/Core
   - Masonry (0.6.2)
-  - podTestLibrary (0.1.0):
+  - podTestLibrary (1.0.2):
     - Masonry
 
 DEPENDENCIES:
@@ -19,6 +19,6 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   FBSnapshotTestCase: d94cf34841c9e77390e29009e8e2713479d48753
   Masonry: 362e8a1cc0beada4a4c4832d5e863da2a51533be
-  podTestLibrary: ac5c5cc9dd2a1ce7f37954481bb6098715343494
+  podTestLibrary: be8f768dc099665bbb8ec83dedc4b0754c950d16
 
 COCOAPODS: 0.38.2

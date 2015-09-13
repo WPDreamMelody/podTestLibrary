@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': '/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/FBSnapshotTestCase.framework/Modules'
+    'name': '/Project/iOS/PodSpec/podTestLibrary/Example/Build/Products/Debug-iphonesimulator/FBSnapshotTestCase.framework/Modules'
     'contents': [{
       'type': 'file',
       'name': 'module.modulemap',
-      'external-contents': '/Users/melody/.cocoapods/repos/podTestLibrary/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSnapshotTestCase.build/unextended-module.modulemap',
+      'external-contents': '/Project/iOS/PodSpec/podTestLibrary/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSnapshotTestCase.build/unextended-module.modulemap',
     }]
   }]
 }
